@@ -1,7 +1,7 @@
 {
     "name": "slush-react-browserify",
     "description": "Scaffold a basic application using React and Browserify",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/brion25/slush-react-browserify",
     "author": {
         "name": "Jose Carlos Ixcoatl Gomez Briones",
