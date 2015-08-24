@@ -11,4 +11,4 @@ var CenterContainer = React.createClass({
     }
 });
 
-React.renderComponent(CenterContainer(),document.getElementById('#container'));
+React.renderComponent(CenterContainer(),document.getElementById('container'));
